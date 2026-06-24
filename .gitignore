@@ -94,3 +94,7 @@ test_reports/
 *.class
 .attach_pid*
 HELP.md
+
+# Emergent platform internals (not part of deliverable)
+.emergent/
+.gitconfig

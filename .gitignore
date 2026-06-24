@@ -86,3 +86,11 @@ android-sdk/
 credentials.json
 *.key
 .credentials
+
+# Movie booking system specific
+target/
+memory/
+test_reports/
+*.class
+.attach_pid*
+HELP.md

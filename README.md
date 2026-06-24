@@ -15,7 +15,7 @@ Every item the brief asks for, and where it lives in this repo:
 | Requirement | Where it is in this repo |
 |---|---|
 | **GitHub repository link** | [`https://github.com/ksagraya/Movie-Ticket-Booking-System`](https://github.com/ksagraya/Movie-Ticket-Booking-System/blob/main/README.md) |
-| **Multiple commits during development** | `git log --oneline` shows 8+ incremental commits — bootstrap → domain → security → DTOs/exceptions → booking/scheduler/pricing → controllers → tests → docs → review-fixes. |
+| **Multiple commits during development** | `git log --oneline` shows **20 incremental commits** — bootstrap → domain → security → DTOs/exceptions → booking/scheduler/pricing → controllers → tests → quality fixes (SpotBugs/refactor) → docs → repo cleanup. |
 | **README.md** | This file. |
 | **Agents.md / Claude.md** | [`CLAUDE.md`](CLAUDE.md) — the AI workflow, the prompts that kept the model on rails, and the bugs the AI got wrong & how they were caught. |
 | **Skills used during development** | [`SKILLS.md`](SKILLS.md) — the engineering skills exercised end-to-end. |
